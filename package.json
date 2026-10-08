@@ -1,0 +1,12 @@
+{
+  "name": "business-growth-coach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive, zero-dependency website for a business growth coach.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check site.config.js && node --check server.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
