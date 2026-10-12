@@ -8,6 +8,10 @@ const byId = (id) => document.getElementById(id);
 
 document.querySelectorAll("[data-brand]").forEach((element) => { element.textContent = businessName; });
 document.querySelectorAll("[data-brand-link]").forEach((element) => { element.setAttribute("aria-label", `${businessName} home`); });
+document.querySelectorAll("[data-copy]").forEach((element) => {
+  const value = config.copy?.[element.dataset.copy];
+  if (typeof value === "string") element.textContent = value.replaceAll("{{businessName}}", businessName);
+});
 document.title = `${businessName} — Business Growth Coaching`;
 document.querySelector('meta[property="og:title"]').content = document.title;
 if (config.description) {
@@ -39,7 +43,7 @@ document.addEventListener("keydown", (event) => {
 });
 window.matchMedia("(min-width: 781px)").addEventListener("change", closeMenu);
 
-const startingPoints = {
+const startingPoints = config.startingPoints || {
   direction: {
     title: "Trade the overwhelm for a clear plan.",
     description: "We’ll map your goals, identify the biggest bottleneck, and choose a few priorities for the next 90 days. You’ll know what to work on and what can wait.",
@@ -62,6 +66,12 @@ const startingPoints = {
   },
 };
 document.querySelector(".focus-tool").hidden = false;
+const initialPoint = startingPoints.direction;
+if (initialPoint) {
+  byId("focus-title").textContent = initialPoint.title;
+  byId("focus-description").textContent = initialPoint.description;
+  byId("focus-cta").dataset.interest = initialPoint.interest;
+}
 document.querySelectorAll('input[name="challenge"]').forEach((input) => {
   input.addEventListener("change", () => {
     const point = startingPoints[input.value];
@@ -78,6 +88,8 @@ document.querySelectorAll("[data-interest]").forEach((link) => {
 if (/^\+\d{8,15}$/.test(config.phone ?? "")) {
   byId("contact-phone").href = `tel:${config.phone}`;
   byId("contact-phone").firstChild.textContent = `Call ${config.phoneDisplay || config.phone} `;
+} else {
+  byId("contact-phone").hidden = true;
 }
 if (whatsappNumber) {
   const greeting = `Hello ${businessName}, I’d like to discuss business growth coaching.`;

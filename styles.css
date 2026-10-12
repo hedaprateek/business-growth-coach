@@ -66,7 +66,7 @@ p { color: var(--muted); }
 .hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 23px; margin-top: 30px; }
 .hero-actions .text-link { font-size: .78rem; gap: 12px; }
 .hero-note { display: flex; gap: 8px; margin-top: 24px; font-size: .7rem; }
-.hero-note > span { color: #52753a; }
+.hero-note > span[aria-hidden] { color: #52753a; }
 .growth-visual { position: relative; align-self: stretch; min-height: 505px; margin-block: 14px 33px; background: #e6eddb; border-radius: 120px 18px 18px 18px; overflow: visible; }
 .visual-topline { display: flex; align-items: center; justify-content: space-between; margin: 38px 30px 0 70px; text-transform: uppercase; letter-spacing: .13em; color: #416550; font-size: .65rem; font-weight: 600; }
 .visual-spark { font-size: 1.6rem; line-height: 1; }
@@ -108,7 +108,7 @@ p { color: var(--muted); }
 .challenge-options { padding: 0; border: 0; margin: 0 0 22px; display: flex; flex-wrap: wrap; gap: 9px; }
 .challenge-options label { position: relative; cursor: pointer; }
 .challenge-options input { position: absolute; opacity: 0; width: 1px; height: 1px; }
-.challenge-options span { display: block; padding: 10px 14px; border: 1px solid #d5ddcc; border-radius: 30px; background: #fafbf6; color: #52614f; font-size: .74rem; line-height: 1.5; transition: background .15s, color .15s; }
+.challenge-options label > span { display: block; padding: 10px 14px; border: 1px solid #d5ddcc; border-radius: 30px; background: #fafbf6; color: #52614f; font-size: .74rem; line-height: 1.5; transition: background .15s, color .15s; }
 .challenge-options input:checked + span { background: var(--green); border-color: var(--green); color: var(--paper); }
 .challenge-options input:focus-visible + span { outline: 3px solid #578126; outline-offset: 3px; }
 .focus-result { padding: 27px 30px; background: var(--paper); border: 1px solid var(--line); border-radius: 10px; }
@@ -125,7 +125,7 @@ p { color: var(--muted); }
 .approach-panel .section-heading > p { color: #c2d0c0; max-width: 290px; font-size: .85rem; }
 .process-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 42px; padding: 0; list-style: none; margin: 48px 0 37px; }
 .process-number { display: flex; align-items: center; justify-content: space-between; padding-bottom: 15px; margin-bottom: 23px; border-bottom: 1px solid #47614c; font-size: .78rem; color: #c4d6bb; }
-.process-number > span { font-size: 1.3rem; color: var(--lime); }
+.process-number > span[aria-hidden] { font-size: 1.3rem; color: var(--lime); }
 .process-grid h3 { font-size: 1.3rem; }
 .process-grid p { color: #c2d0c0; margin-top: 13px; font-size: .83rem; line-height: 1.8; }
 .approach-footnote { display: flex; align-items: center; gap: 14px; border-top: 1px solid #47614c; padding-top: 22px; }
@@ -154,8 +154,8 @@ p { color: var(--muted); }
 .faq-list details:first-child { border-top: 1px solid var(--line); }
 .faq-list summary { list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 21px 0; font-size: .87rem; font-weight: 600; cursor: pointer; }
 .faq-list summary::-webkit-details-marker { display: none; }
-.faq-list summary > span { font-size: 1.3rem; font-weight: 400; transition: transform .18s; }
-.faq-list details[open] summary > span { transform: rotate(45deg); }
+.faq-list summary > span[aria-hidden] { font-size: 1.3rem; font-weight: 400; transition: transform .18s; }
+.faq-list details[open] summary > span[aria-hidden] { transform: rotate(45deg); }
 .faq-list details p { padding: 0 25px 22px 0; font-size: .84rem; line-height: 1.8; }
 
 /* Enquiries remain in the browser; only explicit email/WhatsApp clicks share them. */
@@ -250,7 +250,7 @@ p { color: var(--muted); }
   .check-list li { gap: 6px; margin-bottom: 7px; }
   .card-link { font-size: .72rem; }
   .focus-layout { gap: 35px; grid-template-columns: .8fr 1.2fr; }
-  .challenge-options span { padding: 8px 11px; font-size: .65rem; }
+  .challenge-options label > span { padding: 8px 11px; font-size: .65rem; }
   .focus-result { padding: 23px; }
   .focus-result h3 { font-size: 1.15rem; }
   .focus-result p { font-size: .79rem; }
@@ -316,7 +316,7 @@ p { color: var(--muted); }
   .card-link { font-size: .81rem; }
   .focus-layout, .about-section, .faq-layout, .contact-layout { grid-template-columns: 1fr; gap: 30px; }
   .section-description { max-width: none; font-size: .88rem; }
-  .challenge-options span { font-size: .71rem; padding: 9px 12px; }
+  .challenge-options label > span { font-size: .71rem; padding: 9px 12px; }
   .focus-result { padding: 25px; }
   .focus-result h3 { font-size: 1.2rem; }
   .focus-result p { font-size: .86rem; }

@@ -1,0 +1,686 @@
+[
+  {
+    "path": [
+      "copy",
+      "text001"
+    ],
+    "label": "Paragraph · Business growth coaching",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text002"
+    ],
+    "label": "Heading · Build a business",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text003"
+    ],
+    "label": "Heading · that",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text004"
+    ],
+    "label": "Heading · grows",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text005"
+    ],
+    "label": "Heading · with you.",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text006"
+    ],
+    "label": "Paragraph · You’ve built something good. Let’s make it stronger. Get",
+    "type": "textarea",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text007"
+    ],
+    "label": "Paragraph · Practical guidance. Clear priorities. Progress together.",
+    "type": "text",
+    "group": "Home & introduction"
+  },
+  {
+    "path": [
+      "copy",
+      "text008"
+    ],
+    "label": "Paragraph · A partner for your next stage",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text009"
+    ],
+    "label": "Heading · Big ambitions.",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text010"
+    ],
+    "label": "Heading · Practical next steps.",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text011"
+    ],
+    "label": "Paragraph · Growth gets easier when you know what to focus on. We’ll",
+    "type": "textarea",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text012"
+    ],
+    "label": "Heading · Find your focus",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text013"
+    ],
+    "label": "Paragraph · Turn a long list of ideas into a clear direction. Unders",
+    "type": "textarea",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text014"
+    ],
+    "label": "List item · Business health review",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text015"
+    ],
+    "label": "List item · Growth priorities & positioning",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text016"
+    ],
+    "label": "List item · A focused 90-day action plan",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text017"
+    ],
+    "label": "Heading · Build to scale",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text018"
+    ],
+    "label": "Paragraph · Create a business that doesn’t need you in every detail.",
+    "type": "textarea",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text019"
+    ],
+    "label": "List item · Simple, repeatable systems",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text020"
+    ],
+    "label": "List item · Team roles & delegation",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text021"
+    ],
+    "label": "List item · Sales process & customer experience",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text022"
+    ],
+    "label": "Heading · Keep moving forward",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text023"
+    ],
+    "label": "Paragraph · Have a thinking partner in your corner. Work through dec",
+    "type": "textarea",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text024"
+    ],
+    "label": "List item · One-to-one coaching",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text025"
+    ],
+    "label": "List item · Regular progress reviews",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text026"
+    ],
+    "label": "List item · Accountability & decision support",
+    "type": "text",
+    "group": "Coaching services"
+  },
+  {
+    "path": [
+      "copy",
+      "text027"
+    ],
+    "label": "Paragraph · Start where you are",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text028"
+    ],
+    "label": "Heading · What’s getting",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text029"
+    ],
+    "label": "Heading · in your way?",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text030"
+    ],
+    "label": "Paragraph · Choose the challenge that feels most familiar. Here’s wh",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text031"
+    ],
+    "label": "Paragraph · Your biggest business challenge",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text032"
+    ],
+    "label": "Choice · Too many priorities",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text033"
+    ],
+    "label": "Choice · Inconsistent sales",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text034"
+    ],
+    "label": "Choice · Everything depends on me",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text035"
+    ],
+    "label": "Choice · Making decisions alone",
+    "type": "text",
+    "group": "Business challenges"
+  },
+  {
+    "path": [
+      "copy",
+      "text036"
+    ],
+    "label": "Paragraph · The approach",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text037"
+    ],
+    "label": "Heading · Less guesswork.",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text038"
+    ],
+    "label": "Heading · More forward motion.",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text039"
+    ],
+    "label": "Paragraph · Coaching should lead to action. Here’s how we turn a con",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text040"
+    ],
+    "label": "List item · 01",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text041"
+    ],
+    "label": "List item · Understand",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text042"
+    ],
+    "label": "List item · Take an honest look at your business, your goals, and wh",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text043"
+    ],
+    "label": "List item · 02",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text044"
+    ],
+    "label": "List item · Make a plan",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text045"
+    ],
+    "label": "List item · Choose the right priorities and turn them into achievabl",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text046"
+    ],
+    "label": "List item · 03",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text047"
+    ],
+    "label": "List item · Act. Review. Grow.",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text048"
+    ],
+    "label": "List item · Put the plan to work, check what’s changing, and adapt. ",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text049"
+    ],
+    "label": "Paragraph · Built around your business. Grounded in your day-to-day ",
+    "type": "text",
+    "group": "The approach"
+  },
+  {
+    "path": [
+      "copy",
+      "text050"
+    ],
+    "label": "Paragraph · Umesh Sharda · A coach in your corner",
+    "type": "text",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text051"
+    ],
+    "label": "Heading · You don’t have to",
+    "type": "text",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text052"
+    ],
+    "label": "Heading · figure it all out alone.",
+    "type": "text",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text053"
+    ],
+    "label": "Paragraph · Running a business means being pulled in every direction",
+    "type": "textarea",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text054"
+    ],
+    "label": "Paragraph · My role is to give you that space: to ask useful questio",
+    "type": "textarea",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text055"
+    ],
+    "label": "Paragraph · We’ll work together on a business that’s stronger, more ",
+    "type": "text",
+    "group": "About the coach"
+  },
+  {
+    "path": [
+      "copy",
+      "text056"
+    ],
+    "label": "Paragraph · A few things you might be wondering",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text057"
+    ],
+    "label": "Heading · Good questions.",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text058"
+    ],
+    "label": "Heading · Clear answers.",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text059"
+    ],
+    "label": "Question · Is this coaching right for my business?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text060"
+    ],
+    "label": "Paragraph · Coaching is a good starting point if you run a business ",
+    "type": "textarea",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text061"
+    ],
+    "label": "Question · What happens in the first conversation?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text062"
+    ],
+    "label": "Paragraph · We’ll talk about your business, what you want to change,",
+    "type": "textarea",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text063"
+    ],
+    "label": "Question · Will you do the work for me?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text064"
+    ],
+    "label": "Paragraph · Coaching helps you make decisions and put them into acti",
+    "type": "textarea",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text065"
+    ],
+    "label": "Question · How long does coaching take?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text066"
+    ],
+    "label": "Paragraph · That depends on your goals and the support you need. We’",
+    "type": "textarea",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text067"
+    ],
+    "label": "Question · How much does it cost?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text068"
+    ],
+    "label": "Paragraph · We’ll discuss the scope, session frequency, and fees aft",
+    "type": "textarea",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text069"
+    ],
+    "label": "Question · Can we work together remotely?",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text070"
+    ],
+    "label": "Paragraph · Yes, coaching can take place over a video call. We’ll ag",
+    "type": "text",
+    "group": "Frequently asked questions"
+  },
+  {
+    "path": [
+      "copy",
+      "text071"
+    ],
+    "label": "Paragraph · Your next chapter starts here",
+    "type": "text",
+    "group": "Contact section"
+  },
+  {
+    "path": [
+      "copy",
+      "text072"
+    ],
+    "label": "Heading · Let’s talk about",
+    "type": "text",
+    "group": "Contact section"
+  },
+  {
+    "path": [
+      "copy",
+      "text073"
+    ],
+    "label": "Heading · what’s possible.",
+    "type": "text",
+    "group": "Contact section"
+  },
+  {
+    "path": [
+      "copy",
+      "text074"
+    ],
+    "label": "Paragraph · Tell me a little about your business and where you’d lik",
+    "type": "textarea",
+    "group": "Contact section"
+  },
+  {
+    "path": [
+      "copy",
+      "text075"
+    ],
+    "label": "Paragraph · You don’t need all the answers.",
+    "type": "text",
+    "group": "Contact section"
+  },
+  {
+    "path": [
+      "copy",
+      "text076"
+    ],
+    "label": "Paragraph · Just a place to start.",
+    "type": "text",
+    "group": "Contact section"
+  }
+]

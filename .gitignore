@@ -1,4 +1,5 @@
 node_modules/
+.editor-data/
 .work/
 *.log
 .DS_Store
